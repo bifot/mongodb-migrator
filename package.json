@@ -1,0 +1,23 @@
+{
+  "name": "@bifot/mongodb-migrator",
+  "version": "1.0.0",
+  "description": "MongoDB super-simple migrator.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bifot/mongodb-migrator.git"
+  },
+  "keywords": [
+    "mongodb",
+    "migrator"
+  ],
+  "author": "Mikhail Semin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/bifot/mongodb-migrator/issues"
+  },
+  "homepage": "https://github.com/bifot/mongodb-migrator#readme",
+  "dependencies": {
+    "mongoose": "^5.3.3"
+  }
+}
